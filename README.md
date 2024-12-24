@@ -4,5 +4,5 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
 - [x] Convertion of rgb to grayscale
 - [x] Cropping the image to only manipulation zone
 - [x] Resize of the image (Not required)
-- [ ] K-means clustering
+- [x] K-means clustering
 - [ ] Distance Transform 
