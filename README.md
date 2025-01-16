@@ -9,5 +9,5 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
 - [ ] Extarct the major cluster points and try to change the color
 - [ ] Distance Transform
 - [ ] Report
-- [ ] Labelled Data as Ground Truth (Annotation needs to be done)
+- [ ] (Check whether it is required or not) Labelled Data as Ground Truth (Annotation needs to be done)
 - [ ] Evaluation Metrics
