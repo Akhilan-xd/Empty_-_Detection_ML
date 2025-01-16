@@ -8,3 +8,6 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
 - [x] K-means clustering
 - [ ] Extarct the major cluster points and try to change the color
 - [ ] Distance Transform
+- [ ] Report
+- [ ] Labelled Data as Ground Truth (Annotation needs to be done)
+- [ ] Evaluation Metrics
