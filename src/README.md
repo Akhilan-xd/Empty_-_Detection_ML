@@ -24,5 +24,7 @@ _To identify the empty space from the workstation to manipulate the objects into
 ### References
 
 [1.] Can be youtube videos
+
 [2.] Papers and Articles
+
 [3.] ...
