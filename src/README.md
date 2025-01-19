@@ -1,5 +1,5 @@
 # Empty Space Detection
-_To identify the empty space from the workstation to manipulate the objects into the free space without disturbing the environment
+_To identify the empty space from the workstation to manipulate the objects into the free space without disturbing the environment_
 ---
 
 **Why K-means?**
