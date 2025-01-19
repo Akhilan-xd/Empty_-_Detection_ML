@@ -1,4 +1,4 @@
-# Empty Space Detection
+## Empty Space Detection
 _To identify the empty space from the workstation to manipulate the objects into the free space without disturbing the environment_
 ---
 
