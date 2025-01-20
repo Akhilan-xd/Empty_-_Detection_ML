@@ -1,17 +1,16 @@
 # Empty_-_Detection_ML
 Using Unsupervised Learning method (K-means Clustering) and Distance Transform
-- [ ] Code explanation
-- [ ] (OPTIONAL) Convert the .ipynb to .py
-- [ ] Report
-- [x] Distance Transform
-- [x] Import images as separate directory
-- [x] Use os to import the images rather than hard coding it
-- [x] Convertion of rgb to grayscale
-- [x] Cropping the image to only manipulation zone
-- [x] Resize of the image (Not required)
-- [x] K-means clustering
-- [x] Extarct the major cluster points and try to change the color
+- [ ] Code Explanation
+- [ ] (Optional) Convert the .ipynb to .py
+- [ ] Presentation
+- [x] Import Images as Separate Directory
+- [x] Use os to Import the Images Rather Than Hard Coding It
+- [x] Conversion of RGB to Grayscale
+- [x] Cropping the Image to Only Manipulation Zone
+- [x] K-Means Clustering
 - [x] Evaluation Metrics
+- [x] Distance Transform
+- [x] Slicing and Distinguishing the Patches
 
 ---
 
@@ -26,9 +25,15 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
 ### Steps to install the _requirements_
     pip install -r requirements.txt
 
+### Next steps
+
+- Go into the src folder
+- Download the ipynb
+- Set the python environment to the virtual environment which has been created
+
 ---
 
-Enjoy working around !!!
+Enjoy learning !!!
 
 ---
 
