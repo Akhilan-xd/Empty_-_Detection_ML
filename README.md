@@ -24,3 +24,18 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
     - Now you are ready to install all your required libraries and it will be only in this environment.
 
 ### Steps to install the _requirements_
+    ```pip install -r requirements.txt```
+
+---
+
+Enjoy working around !!!
+
+---
+
+### References
+
+[1] https://www.youtube.com/watch?v=oxWfLTQoC5A
+
+[2] https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
+
+[3] https://docs.opencv.org/3.4/d2/dbd/tutorial_distance_transform.html
