@@ -24,7 +24,7 @@ Using Unsupervised Learning method (K-means Clustering) and Distance Transform
     - Now you are ready to install all your required libraries and it will be only in this environment.
 
 ### Steps to install the _requirements_
-    ```pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 ---
 
