@@ -14,16 +14,18 @@
 
 - K-means clusters spatial data to segment occupied vs. free regions, identifying areas of interest. The Distance Transform calculates distances from obstacles, creating a gradient map of free space. Combined, they efficiently detect and quantify empty spaces for safe and strategic object manipulation.
 
-**Also add necessary topics you would like to explain**
-
-- ...
-
 ---
 
 ### References
 
-[1.] Can be youtube videos
+[1.] [Cropping Images](https://learnopencv.com/cropping-an-image-using-opencv/)
 
-[2.] Papers and Articles
+[2.] [Image Segmentation with Kmeans](https://www.kaggle.com/code/hal1001k/image-segmentation-with-kmeans)
 
-[3.] ...
+[3.] [Kmeans - clustering](https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_ml/py_kmeans/py_kmeans_opencv/py_kmeans_opencv.html#kmeans-opencv)
+
+[4.] [Plotting a graph to represent the data](https://www.geeksforgeeks.org/three-dimensional-plotting-in-python-using-matplotlib/)
+
+[5.] [Evaluation Metrics](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
+
+[6.] [Distance Transform](https://www.geeksforgeeks.org/python-opencv-distancetransform-function/)
