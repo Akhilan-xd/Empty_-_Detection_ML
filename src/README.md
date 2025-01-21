@@ -14,6 +14,13 @@
 
 - K-means clusters spatial data to segment occupied vs. free regions, identifying areas of interest. The Distance Transform calculates distances from obstacles, creating a gradient map of free space. Combined, they efficiently detect and quantify empty spaces for safe and strategic object manipulation.
 
+**About Silhouette Co-efficient**
+
+- The Silhouette Coefficient is a measure of how well samples are clustered with samples that are similar to themselves. Clustering models with a high Silhouette Coefficient are said to be dense, where samples in the same cluster are similar to each other, and well separated, where samples in different clusters are not very similar to each other.
+
+- The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). Note that Silhouette Coefficient is only defined if number of labels is 2 <= n_labels <= n_samples - 1.
+
+
 ---
 
 ### References
