@@ -1,17 +1,5 @@
 # Empty_-_Detection_ML
 Using Unsupervised Learning method (K-means Clustering) and Distance Transform
-- [x] Code Explanation
-- [ ] (Optional) Convert the .ipynb to .py
-- [x] Presentation
-- [x] Import Images as Separate Directory
-- [x] Use os to Import the Images Rather Than Hard Coding It
-- [x] Conversion of RGB to Grayscale
-- [x] Cropping the Image to Only Manipulation Zone
-- [x] K-Means Clustering
-- [x] Evaluation Metrics
-- [x] Distance Transform
-- [x] Slicing and Distinguishing the Patches
-
 ---
 
 ### Steps to create a _Virtual Environment_
