@@ -1,8 +1,8 @@
 # Empty_-_Detection_ML
 Using Unsupervised Learning method (K-means Clustering) and Distance Transform
-- [ ] Code Explanation
+- [x] Code Explanation
 - [ ] (Optional) Convert the .ipynb to .py
-- [ ] Presentation
+- [x] Presentation
 - [x] Import Images as Separate Directory
 - [x] Use os to Import the Images Rather Than Hard Coding It
 - [x] Conversion of RGB to Grayscale
